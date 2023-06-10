@@ -1,2 +1,2 @@
 # FinApp
-his application can allow the end user to check whether they have updated their insurance before expire. Insurance agency can use it to track their customers and amount they pay. 
+This project is a blockchain-based application that allows high-authorized organizations to check the insurance details of users. This includes the agency they are registered with, the type of agency, and the amount they paid monthly. The application also allows users to check whether they have updated their insurance before it expires. Insurance agencies can use the application to track their customers and the amount they pay.
